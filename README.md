@@ -47,16 +47,7 @@ The database contains multiple tables related to the E-Commerce business.
 - `reviews`
 - `sellers`
 
----
-
-## 🔍 Project Structure
-
-The SQL analysis is divided into different levels.
-
-### Step 1 — Database Setup
-
-Created the database and selected it for analysis.
-
-```sql
-CREATE DATABASE ecommerce_sql_project;
-USE ecommerce_sql_project ;
+Ecommerce-SQL-Analysis
+    ├── README.md
+    ├── Ecommerce_analysis.sql
+    
